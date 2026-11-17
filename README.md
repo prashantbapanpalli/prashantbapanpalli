@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Prashant 👋
 
-<!--
-**prashantbapanpalli/prashantbapanpalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student at Karnatak University, Dharwad (India) · Full-stack web developer (MERN) · Learning machine learning & AI.
 
-Here are some ideas to get you started:
+I'm preparing for a Master's in Computer Science / Data Science & AI in Italy (2027).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+
+**[Unfazed](https://github.com/prashantbapanpalli/Unfazed)** – full-stack MERN practice management app for therapists: bookings, Razorpay payments, session notes and real-time chat.
+
+**[Minor projects](https://github.com/prashantbapanpalli/Minor-projects)** – six web projects: HTML/CSS portfolio, Tailwind landing page, API apps, React, Redux Toolkit and an Express REST API.
+
+### Tech
+
+JavaScript · React · Node.js · Express · MongoDB · Python · Java · C · SQL/MySQL · Git
+
+### Currently learning
+
+Machine learning with Python, artificial intelligence and data science.
